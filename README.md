@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I used think a lot and creative.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <b></b>www.linkedin.com/in/madu-murugesh-b43b34230</b></h3>
 <p align="left">
 </p>
 
