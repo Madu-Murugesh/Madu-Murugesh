@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madu Murugesh</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
-- 🌱 I’m currently learning **Backend Services**
+- 🌱 I’m currently learning **Mobile App developement**
 
 - 💬 Ask me about **Flutter**
 
